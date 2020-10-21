@@ -1,5 +1,5 @@
 {
-    "name": "laravel-admin-map-selector",
+    "name": "laraveladminmap",
     "description": "laravel admin selector maps",
     "type": "library",
     "keywords": ["laravel-admin", "extension","maps"],
