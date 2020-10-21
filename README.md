@@ -8,7 +8,7 @@ This extension is used to help you select the latitude and longitude in the form
 ## Installation
 
 ```bash
-composer require laravel-admin-maps/maps-latlong
+composer require libaocai/laravel-admin-map-selector
 ```
 
 ## Configuration
